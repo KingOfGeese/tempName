@@ -1,0 +1,1 @@
+-- Not like my other lib - for stand!
